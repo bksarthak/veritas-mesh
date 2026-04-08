@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtualenvs (their shebangs and activate scripts contain absolute host paths)
+venv/
+.venv/
+env/
+ENV/
+
+# Local secrets / env files
+.env
+.env.*
+*.env
+
+# IDE / OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Recordings — asciinema casts and screen recordings often capture
+# your shell prompt (username@hostname). Keep them out of the repo.
+*.cast
+*.mp4
+*.mov
