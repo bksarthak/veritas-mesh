@@ -17,7 +17,7 @@
 
 ## ⚡ See it in action
 
-![Veritas-Mesh: neutral vs adversarial verdicts on the same claim](docs/demo.png)
+![Veritas-Mesh: neutral vs adversarial verdicts on the same claim](demo.png)
 
 *Above: the same conspiracy claim run through both modes. The neutral judge
 summarizes the consensus; the Devil's Advocate hunts for refutations and
